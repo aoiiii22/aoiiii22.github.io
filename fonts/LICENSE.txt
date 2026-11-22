@@ -1,0 +1,10 @@
+Fonts in this folder (downloaded from Fontsource, https://fontsource.org):
+
+- inter-latin-var.woff2           Inter by Rasmus Andersson        https://rsms.me/inter
+- jetbrains-mono-latin-var.woff2  JetBrains Mono by JetBrains      https://www.jetbrains.com/lp/mono
+
+Both are licensed under the SIL Open Font License, Version 1.1:
+https://openfontlicense.org
+
+The OFL allows free use, embedding and redistribution in websites, as long as
+the fonts are not sold on their own.

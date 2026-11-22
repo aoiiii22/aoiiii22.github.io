@@ -1,0 +1,313 @@
+{
+  "profile": {
+    "fullName": "Joshua Ramil M. Camero",
+    "firstName": "Joshua",
+    "headline": "Aspiring Jr. Game Developer",
+    "school": "STI College San Jose",
+    "location": "Philippines",
+    "tagline": "Every click is a choice. Every choice has a cost.",
+    "summary": "Fourth-year BS Computer Science student building educational games, web applications, and interface designs with a focus on clarity and dependable code.",
+    "aboutParagraphs": [
+      "I'm a fourth-year BS Computer Science student at STI College San Jose. For our thesis I'm leading the programming of Zero Trust, Infinite Risk, a first-person cybersecurity awareness game in Unity and C#.",
+      "I also design interfaces and learn new tools quickly under pressure."
+    ],
+    "stats": [],
+    "facts": [
+      {
+        "label": "Focus",
+        "value": "Aspiring Jr. Game Developer"
+      },
+      {
+        "label": "School",
+        "value": "STI College San Jose"
+      },
+      {
+        "label": "Location",
+        "value": "Philippines"
+      },
+      {
+        "label": "Email",
+        "value": "camerojoshua22@gmail.com"
+      },
+      {
+        "label": "Phone",
+        "value": "0994 473 1554"
+      }
+    ],
+    "openToWork": true,
+    "photo": {
+      "src": "/media/profile/joshua.jpg",
+      "alt": "Portrait of Joshua Ramil M. Camero in a black suit and striped tie"
+    },
+    "cv": {
+      "src": "/cv/Joshua-Camero-CV.pdf",
+      "fileName": "Joshua-Camero-CV.pdf"
+    }
+  },
+  "projects": [
+    {
+      "title": "Zero Trust, Infinite Risk",
+      "category": "Thesis",
+      "year": "2026",
+      "role": "Lead Programmer",
+      "shortDescription": "A first-person cybersecurity awareness game built with Unity and C#.",
+      "description": "Our thesis game. You play through everyday school situations where every message, link and device could be a trap. The game teaches players to recognize real cyber threats (phishing, ransomware, QR code scams and USB drop attacks), and their choices lead to positive or negative endings. I led the programming, built the game's interface and wrote the system documentation.",
+      "highlights": [
+        "Led the programming of the whole game in Unity and C#",
+        "Programmed 13 lessons on real cyber threats, with choice-based positive and negative endings",
+        "Covers phishing, ransomware, QR code scams and USB drop attacks",
+        "Authored the game's interface and the system documentation"
+      ],
+      "details": [
+        {
+          "label": "Role",
+          "value": "Lead Programmer"
+        },
+        {
+          "label": "Engine",
+          "value": "Unity"
+        },
+        {
+          "label": "Genre",
+          "value": "Educational · First-person"
+        },
+        {
+          "label": "Platform",
+          "value": "PC"
+        },
+        {
+          "label": "Team",
+          "value": "Thesis group"
+        },
+        {
+          "label": "Year",
+          "value": "2026"
+        }
+      ],
+      "tags": [
+        "Unity",
+        "C#",
+        "UI design",
+        "Documentation"
+      ],
+      "liveUrl": null,
+      "sourceUrl": null,
+      "media": {
+        "cover": {
+          "src": "/media/zero-trust/zero-trust-cover.webp",
+          "alt": "Zero Trust, Infinite Risk main menu with Continue, New Game, Glossary, Settings and Quit"
+        },
+        "video": "/media/zero-trust/zero-trust-teaser.mp4",
+        "gallery": [
+          {
+            "src": "/media/zero-trust/zero-trust-1.jpg",
+            "alt": "Scene 7: Aoi walks down the school hallway toward the computer lab",
+            "thumb": "/media/zero-trust/zero-trust-1-thumb.webp"
+          },
+          {
+            "src": "/media/zero-trust/zero-trust-2.jpg",
+            "alt": "Scene 7: a 'Password update required' prompt on the school LMS",
+            "thumb": "/media/zero-trust/zero-trust-2-thumb.webp"
+          },
+          {
+            "src": "/media/zero-trust/zero-trust-3.jpg",
+            "alt": "Attacker's view: leaked-password login attempts all fail and the account is blocked",
+            "thumb": "/media/zero-trust/zero-trust-3-thumb.webp"
+          },
+          {
+            "src": "/media/zero-trust/zero-trust-4.jpg",
+            "alt": "The in-game checklist that tracks every lesson, inside the computer lab",
+            "thumb": "/media/zero-trust/zero-trust-4-thumb.webp"
+          }
+        ],
+        "logo": {
+          "src": "/media/zero-trust/zero-trust-logo.webp",
+          "alt": "Zero Trust, Infinite Risk logo: a shield wrapped in an infinity symbol with a warning sign"
+        },
+        "logoOnDark": false
+      },
+      "liveLabel": null
+    },
+    {
+      "title": "Ghost Catcher",
+      "category": "Web game",
+      "year": "2026",
+      "role": "Game Developer",
+      "shortDescription": "A 2D ghost-catching arcade game for PC and phone browsers.",
+      "description": "Ghost Catcher is a 2D game where players throw a lasso to catch ghosts and fill a jar before time runs out. I built it in Unity 6 with C#, with 10 levels, a coin shop with 6 hooks, an online leaderboard and a phone-friendly layout, then published it on itch.io with a gameplay teaser.",
+      "highlights": [
+        "Built the lasso, ghost and jar gameplay in C#, across 10 levels that get harder",
+        "Added a coin shop with 6 hooks, saved progress and an online leaderboard",
+        "Made it play on PC and phone browsers and published it on itch.io"
+      ],
+      "details": [
+        {
+          "label": "Role",
+          "value": "Game Developer"
+        },
+        {
+          "label": "Type",
+          "value": "Web game"
+        },
+        {
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "label": "Play",
+          "value": "aoiiii22.itch.io/ghostcatcher"
+        }
+      ],
+      "tags": [
+        "Unity",
+        "C#",
+        "Unity Gaming Services",
+        "WebGL",
+        "Blender",
+        "itch.io"
+      ],
+      "liveUrl": "https://aoiiii22.itch.io/ghostcatcher",
+      "sourceUrl": null,
+      "media": {
+        "cover": null,
+        "video": "/media/ghostcatcher/ghostcatcher-teaser.mp4",
+        "gallery": [],
+        "logo": {
+          "src": "/media/ghostcatcher/ghostcatcher-logo.webp",
+          "alt": "Ghost Catcher app icon: a cute ghost caught in a glowing lasso next to a jar"
+        },
+        "logoOnDark": true
+      },
+      "liveLabel": "Play on itch.io",
+      "playEmbed": {
+        "src": "https://itch.io/embed-upload/20318984?color=0b0c20",
+        "width": 640,
+        "height": 360
+      }
+    },
+    {
+      "title": "DriveMate Car Rental",
+      "category": "Mobile app",
+      "year": "2026",
+      "role": "UI/UX Designer",
+      "shortDescription": "UI/UX for a self-drive and with-driver car rental mobile app.",
+      "description": "DriveMate is a car rental app where customers can rent a car to drive themselves or book one with a driver. I designed the app's UI/UX in Figma and Canva, covering the main screens for listings, owner verification, price checks and booking, and built a customer persona from interviews with students and workers.",
+      "highlights": [
+        "Designed screens for listings, owner verification, price checks and booking",
+        "Built a customer persona from interviews with students and workers"
+      ],
+      "details": [
+        {
+          "label": "Role",
+          "value": "UI/UX Designer"
+        },
+        {
+          "label": "Type",
+          "value": "Mobile app"
+        },
+        {
+          "label": "Year",
+          "value": "2026"
+        }
+      ],
+      "tags": [
+        "Figma",
+        "Canva",
+        "User interviews",
+        "Personas"
+      ],
+      "liveUrl": null,
+      "sourceUrl": null,
+      "media": {
+        "cover": null,
+        "video": "/media/drivemate/drivemate-how-to-use.mp4",
+        "gallery": [],
+        "logo": {
+          "src": "/media/drivemate/drivemate-logo.webp",
+          "alt": "DriveMate logo: a map pin with a steering wheel"
+        },
+        "logoOnDark": false
+      },
+      "liveLabel": null
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming",
+      "items": [
+        "Java",
+        "C#",
+        "Python",
+        "PHP",
+        "MySQL",
+        "Unity",
+        "3D Modeling"
+      ]
+    },
+    {
+      "category": "Design and Web",
+      "items": [
+        "HTML",
+        "UI/UX Design",
+        "Figma",
+        "Canva",
+        "Draw.io",
+        "Blender"
+      ]
+    },
+    {
+      "category": "Networking and Tools",
+      "items": [
+        "Network setup",
+        "IP addressing",
+        "Troubleshooting",
+        "Microsoft Office"
+      ]
+    }
+  ],
+  "journey": {
+    "education": [],
+    "experience": [
+      {
+        "title": "Thesis: Zero Trust, Infinite Risk — Lead Programmer",
+        "organisation": "STI College San Jose",
+        "period": "2026",
+        "description": "Led the programming of a first-person cybersecurity awareness game built with Unity and C#. Programmed 13 lessons on real cyber threats, with choice-based positive and negative endings."
+      }
+    ],
+    "trainings": [
+      {
+        "name": "Cyber Threat Management",
+        "organisation": "DICT–ITU DTC Initiative",
+        "date": "November 2025"
+      },
+      {
+        "name": "Digital Safety and Security Awareness",
+        "organisation": "Cisco Networking Academy",
+        "date": "September 2025"
+      },
+      {
+        "name": "National Youth Convention",
+        "organisation": "STI College, Baguio",
+        "date": "June 2024"
+      }
+    ]
+  },
+  "contact": {
+    "message": "Open to conversations about programming, game development, UI/UX and collaboration.",
+    "email": "camerojoshua22@gmail.com",
+    "phone": "0994 473 1554",
+    "note": "References are available upon request.",
+    "links": [
+      {
+        "label": "itch.io",
+        "url": "https://aoiiii22.itch.io"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/aoiiii22"
+      }
+    ],
+    "formEndpoint": null
+  }
+}

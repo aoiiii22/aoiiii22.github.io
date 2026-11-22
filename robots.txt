@@ -1,0 +1,5 @@
+# Search engines may index the whole site.
+User-agent: *
+Allow: /
+
+Sitemap: https://aoiiii22.github.io/sitemap.xml
